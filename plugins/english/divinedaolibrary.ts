@@ -7,7 +7,7 @@ import { defaultCover } from "@libs/defaultCover";
 class DDLPlugin implements Plugin.PluginBase {
     id = "DDL.com";
     name = "Divine Dao Library";
-    site = "https://www.divinedaolibrary.com/";
+    site = "https://www.daotranslate.us/";
     version = "1.0.0";
     icon = "src/en/divinedaolibrary/icon.png";
     filters?: undefined;
